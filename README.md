@@ -44,3 +44,11 @@ Proyek ini merupakan hasil praktikum pembacaan sensor DHT11 menggunakan board ES
 
 ## Catatan
 Sebelum upload program, sesuaikan SSID dan password WiFi pada kode.
+
+## Dokumentasi
+
+### Tampilan Web
+![Tampilan Web](Kelompok 2_Hasil-Tampilan-Web-DHT11.png)
+
+### Rangkaian Hardware
+![Rangkaian Hardware](Kelompok 2_Rangkaian-Hardware-DHT11-ESP8266)
